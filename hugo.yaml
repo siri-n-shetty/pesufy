@@ -27,7 +27,7 @@ menu:
         type: search
     - name: GitHub
       weight: 3
-      url: "https://github.com/siri-n-shetty/pesu-ec-guide"
+      url: "https://github.com/siri-n-shetty/pesufy"
       params:
         icon: github
 
