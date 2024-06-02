@@ -3,4 +3,6 @@ title: About
 type: about
 ---
 
-This is the about page.
+Content by [Siri N. Shetty](https://github.com/siri-n-shetty). 
+
+Special thanks to [Rowlet Owl](https://www.reddit.com/user/rowlet-owl/) for the FAQs. 

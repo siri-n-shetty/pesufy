@@ -1,17 +1,20 @@
 ---
-title: My Site
-toc: false
+title: PESU Decoded
+layout: hextra-home
 ---
 
-This is the landing page.
-
-## Explore
-
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+<div class="hx-mt-6 hx-mb-6">
+{{< hextra/hero-headline >}}
+  PESU Decoded
+{{< /hextra/hero-headline >}}
+</div>
+<br>
+<div class="hx-mb-12">
+{{< hextra/hero-subtitle >}}
+  Your PESU Adventure Starts Here
+{{< /hextra/hero-subtitle >}}
+</div>
+<br>
+<div class="hx-mb-6">
+{{< hextra/hero-button text="Lesgooo" link="docs/first-page" >}}
+</div>
