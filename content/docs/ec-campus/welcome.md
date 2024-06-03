@@ -24,8 +24,8 @@ Here's a breakdown of the engineering block:
 
 ## Departments: Floors 2-6
 
-* **CSE Department(2nd - 5th floor)**: Hotspost for all 2nd & 3rd year CSE students.
-* **ECE Department(6th floor)**: This space is for for ECE students, both in their second and third years.
+* **CSE Department(2nd - 5th floor)**: Hotspot for all 2nd & 3rd year CSE students.
+* **ECE Department(6th floor)**: This space is for ECE students, both in their second and third years.
 
 ## Fueling Your Life: Campus Eateries
 
