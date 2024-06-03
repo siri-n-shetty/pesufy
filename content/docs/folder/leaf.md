@@ -16,7 +16,7 @@ next: docs/folder/srnprn
 ### Key Points
 
 * *Frequency*: 2 ISAs are held per semester for each subject.
-* *Duration*: Each ISA lasts for 1 hour.
+* *Duration*: Each ISA lasts for 1 hour 5 minutes.
 * *Marks*: Each ISA carries a weightage of 40 marks.
 * *Question Format*: The exam format typically combines:
     * *Descriptive Questions* (4 marks): These questions require well-structured written responses which can be typed on PCs or written in the answer booklet.
