@@ -20,11 +20,11 @@ Few details to keep in your mind to ensure a smooth day in PESU :-
 |:-----------:|:------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:---------------:|:-------------:|:-------------:|:-------------:|
 | 8:45 to 9:30 | 9:30 to 10:15 | 10:15 to 11:00 | 11:00 to 11:30 | 11:30 to 12:15 | 12:15 to 13:00 | 13:00 to 13:45 |  13:45 to 14:30  | 14:30 to 15:15 | 15:15 to 16:00 | 16:00 to 16:45 |
 
-- ***Please note that this is tentative and is subject to chenge.***
+- ***Please note that this is tentative and is subject to change.***
 
 - While some faculties might be understanding and allow latecomers occasionally, it's important to be punctual for your classes. 
 
-- There's 10 to 15 minutes grace period only for the **first class of the day**, meaning you can arrive up to 8:55 am without penalty. However, after that, entry and attendance are at the faculty's discretion.
+- There's 10 to 15-minute grace period only for the **first class of the day**, meaning you can arrive up to 8:55 am without penalty. However, after that, entry and attendance are at the faculty's discretion.
 
 - Remember, this grace period disappears entirely after breaks, so punctuality is crucial for all other classes.
 
