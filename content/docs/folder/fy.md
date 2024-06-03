@@ -34,10 +34,10 @@ next: docs/branches/
 | Subject | Credits |
 |---|---|
 | Python for Computational Problem Solving | 5 |
-| Mathematics - I | 5 |
+| Mathematics - I | 4 |
 
 *Semester-2*
 | Subject | Credits |
 |---|---|
-| Problem Solving With C | 5 |
-| Mathematics - II       | 5 |
+| Problem-Solving With C | 5 |
+| Mathematics - II       | 4 |
