@@ -6,7 +6,7 @@ prev: docs/folder/leaf
 next: docs/folder/gpa
 ---
 
-These are the unique IDs provided in PESU.
+These are the unique IDs provided to all the students who get admitted to PES University.
 
 ## PRN
 
@@ -23,7 +23,7 @@ These are the unique IDs provided in PESU.
 ## SRN
 
 * **Student Registration Number**
-* Provided after a month or so of the college
+* Provided after a month or so into your college 
 * Format: `PEScUGyybbnnn`, where:
     * `c` is your campus, 
         * `1` for RR campus, 
@@ -31,7 +31,9 @@ These are the unique IDs provided in PESU.
     * UG Stands for Under-Graduate Program.
     * `yy` is your year of admission
     * `bb` is your branch
-        * `CS` = Computer Science
-        * `AM` = AI-ML
-        * `EC` = Electronics and Communication
-    * `nnn` is your unique number
+        * `CS` = Computer Science and Engineering
+        * `AM` = Computer science and Engineering (AI-ML)
+        * `EC` = Electronics and Communication Engineering
+        * `BT` = Biotechnology
+        * `ME` = Mechanical Engineering
+    * `nnn` is your unique number that is unique to every student

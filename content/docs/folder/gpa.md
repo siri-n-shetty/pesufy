@@ -17,7 +17,7 @@ next: docs/folder/fy
     * 3-credit courses: Meet for 3 hours per week.
     * 2-credit courses: Meet for 2 hours per week.
 
-**Remember**: This is a general explanation.  It's always a good idea to consult with your faculty for specific details about your program's curriculum and credit requirements.
+**Remember**: This is a general explanation.  It's always a good idea to consult with your respective faculty for specific details about your program's curriculum and credit requirements.
 
 ## Calcultion of GPA
 
@@ -36,3 +36,4 @@ Your GPA (Grade Point Average) reflects your overall academic performance. Here'
     * D (50-59): Pass
     * F (Below 50): Fail
 
+**Note**: This is just tentative, and the range of marks per grade may vary depending on the subject's overall performance from your batch.

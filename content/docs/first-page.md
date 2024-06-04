@@ -28,4 +28,4 @@ Of of these, the RR Campus is the most develeoped flagship campus, and the EC Ca
 - Prof. M R Doreswamy - Chancellor
 - Prof. Jawahar Doreswamy - Pro-Chancellor
 - Dr. Suryaprasad J - Vice Chancellor
-- Dr. V Krishna - Dean of Student Affairs
+- Dr. V Krishna - Dean, Student Affairs

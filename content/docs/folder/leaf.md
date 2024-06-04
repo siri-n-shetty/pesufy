@@ -11,7 +11,7 @@ next: docs/folder/srnprn
 - They are conducted within the university's designated exam centers. 
 - They contribute significantly to your overall performance in each subject.
 - Timetables for the same are sent a week before the exam. 
-- Seating allotment is provided on PESU App on the day of exam.
+- Seating allotment is provided on PESU App on the day of exam, or sometimes the night before.
 
 ### Key Points
 
@@ -31,7 +31,7 @@ next: docs/folder/srnprn
 - You have the option to type your answers directly on the computer provided at the exam center.
 - You can even combine both methods! For instance, you can type out an answer and then include a hand-drawn diagram within the answer booklet for better clarity.
 
-***Pro-Tip***: Please reach the examination centre on time :))
+***Pro-Tip***: Please reach the examination centre on time and anticipate traffic and leave home early to avoid delays :))
 
 ## Assignments 
 

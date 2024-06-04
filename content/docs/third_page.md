@@ -20,6 +20,6 @@ A basic scientific calculator is your best friend for calculations.
 
 **Pro Tip**: Programmable calculators are not allowed during exams, so stick to a standard model.
 
-**Casio FX-991EX (Classwiz)**: This scientific calculator is a popular choice among students. It's not mandatory, but it's a great recommendation if you're looking for a specific model.
+**Casio FX-991EX (Classwiz)**: This scientific calculator is a popular choice among students. It's not mandatory, but it's a great recommendation if you're looking for a specific model. It is also very useful during examinations
 
 ![Casio Classwiz](https://i.postimg.cc/Kzsp9ZT5/616ry-Ro-Q5-EL-AC-UF1000-1000-QL80.jpg)
