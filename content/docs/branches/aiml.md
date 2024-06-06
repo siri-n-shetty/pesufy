@@ -10,6 +10,6 @@ The Artificial Intelligence and Machine Learning (AIML) branch arrived at the PE
 
 ## Syllabus
 
-[Semester-3](/aiml-sem3-syllabus.pdf)
+[Semester-3](https://drive.google.com/file/d/16bDXG7EPgNIcYDCgzERTXC-MXAGjV0P8/view?usp=sharing)
 
-[Semester-4](/aiml-sem4-syllabus.pdf)
+[Semester-4](https://drive.google.com/file/d/13JQqEjy3_rW8Aq0fK42EMHTPEOi6Jyt2/view?usp=sharing)
