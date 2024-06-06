@@ -2,7 +2,7 @@
 title: The RR Campus
 type: docs
 weight: 8
-prev: docs/ec-campus
+prev: docs/ec-campus/contri
 next: docs/ec-campus
 sidebar:
   open: true
