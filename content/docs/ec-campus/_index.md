@@ -1,7 +1,7 @@
 ---
 title: The EC Campus
 type: docs
-weight: 7
+weight: 8
 prev: docs/branches
 next: docs/ec-campus/welcome
 sidebar:

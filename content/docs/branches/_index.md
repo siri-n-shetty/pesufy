@@ -1,7 +1,7 @@
 ---
 title: Branches
 type: docs
-weight: 6
+weight: 7
 prev: docs/folder/fy
 next: docs/branches/cse
 sidebar:

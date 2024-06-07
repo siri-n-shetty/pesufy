@@ -1,8 +1,8 @@
 ---
 title: Academics
 type: docs
-weight: 5
-prev: docs/fourth_page
+weight: 6
+prev: docs/fifthpage
 next: docs/folder/leaf
 sidebar:
   open: true
