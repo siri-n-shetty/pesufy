@@ -12,8 +12,6 @@ Few details to keep in your mind to ensure a smooth day in PESU :-
 
 - To be eligible to write the final exams (ESAs), students must maintain a **minimum attendance of 75% in every subject**.
 
-- **The use of mobile phones during class time is strictly prohibited.** Any student found using a mobile phone in class will have their phone confiscated. You won't get it back until the semester is over, but you can have your SIM card back right when it's taken.
-
 ## Timings 
 
 # B.Tech
