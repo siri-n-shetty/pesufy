@@ -14,7 +14,7 @@ The Artificial Intelligence and Machine Learning (AIML) branch arrived at the PE
 
 [Semester-4](https://drive.google.com/file/d/13JQqEjy3_rW8Aq0fK42EMHTPEOi6Jyt2/view?usp=sharing)
 
-## Points to remember 
+## Points to Remember 
 
 The course of AIML is going to be heavier than CSE. Since the newer courses are tough, some of them may be relatively graded, but relying on that is never a good idea. Get ready for a grind.
 

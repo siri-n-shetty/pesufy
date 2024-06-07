@@ -49,3 +49,9 @@ next: docs/branches/aiml
 | Elective - III | 4 |
 | Elective - IV | 4 |
 | Capstone Project Phase-1 | 2 |
+
+## Points to Remember
+
+* Electives change for every batch. So, the electives list will be added after the list for the 2026 batch is released.
+* You can take up Special Topics (2 credits) in your third and fourth semester. 
+* Make sure you study the prescribed textbooks for these courses, as slides won't be sufficient to get good grades in exams anymore. 

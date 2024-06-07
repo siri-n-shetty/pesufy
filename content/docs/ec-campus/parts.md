@@ -12,7 +12,7 @@ A breakdown of the other areas:
 
 * This is the place where all your ISAs and ESAs happen.
 * This space also has classrooms for BBA and BCom students.
-* The sixth floor has a great Research Lab. 
+* This block also has Research Labs.  
 
 ## MRD Student Centre
 

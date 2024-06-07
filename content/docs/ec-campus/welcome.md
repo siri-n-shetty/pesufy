@@ -27,7 +27,7 @@ Here's a breakdown of the engineering block:
 * **CSE Department(2nd - 5th floor)**: Hotspot for all 2nd & 3rd year CSE students.
 * **ECE Department(6th floor)**: This space is for ECE students, both in their second and third years.
 
-## Fueling Your Life: Campus Eateries
+## Fueling Your Life: Canteens
 
 Fourth and Fifth Floor Canteens: These buzzing canteens on the fourth and fifth floors are the lifeblood of the campus. Be prepared for friendly competition during breaks as students from various branches grab a bite and socialize.
 
