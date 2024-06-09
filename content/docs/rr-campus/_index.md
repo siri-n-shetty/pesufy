@@ -9,5 +9,3 @@ sidebar:
 ---
 
 [PESU-pedia by SilicoFlare](https://pesupedia.vercel.app/intro.html)
-
-[PESU for Dummies](https://hackerspace-pesu.github.io/pesu-for-dummies/)
