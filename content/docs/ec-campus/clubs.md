@@ -7,3 +7,9 @@ next: docs/ec-campus/contri
 ---
 
 Will be updated soon! Stay tuned!
+
+## Technical Clubs 
+
+## Non-Technical Clubs 
+
+## Maaya (The Annual Fest of EC Campus)
