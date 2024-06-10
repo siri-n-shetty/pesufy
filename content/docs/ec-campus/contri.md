@@ -1,8 +1,8 @@
 ---
 title: Contribute
 type: docs
-weight: 
-prev: docs/ec-campus/hostel
+weight: 5
+prev: docs/ec-campus/clubs
 next: docs/rr-campus/
 ---
 

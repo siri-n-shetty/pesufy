@@ -1,7 +1,7 @@
 ---
 title: Other Facilities
 type: docs
-weight: 3
+weight: 2
 prev: docs/ec-campus/welcome
 next: docs/ec-campus/hostel
 ---
