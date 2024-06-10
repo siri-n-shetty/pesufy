@@ -3,7 +3,7 @@ title: Hostel
 type: docs
 weight: 3
 prev: docs/ec-campus/parts
-next: docs/ec-campus/contri
+next: docs/ec-campus/clubs
 ---
 
 ## Girls Hostel
