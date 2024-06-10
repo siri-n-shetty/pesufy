@@ -30,6 +30,9 @@ next: docs/branches/aiml
 
 ## Semester-5
 
+[Course Information](https://drive.google.com/file/d/1LJPU6rqfEVeYTA-pcPnJHzp8glHUvstA/view?usp=sharing)
+[Electives Info](https://drive.google.com/file/d/1Bl3gpk3FHyTsKKe4uCzq2tbsjS7_Lpor/view?usp=sharing)
+
 | Subject | Credits |
 |---|---|
 | Machine Intelligence | 5 |
@@ -40,6 +43,8 @@ next: docs/branches/aiml
 
 
 ## Semester-6
+
+[Electives Info](https://drive.google.com/file/d/1NqHvWtGSJwxL_YkeGcs8bew-EWaSgZV0/view?usp=sharing)
 
 | Subject | Credits |
 |---|---|
