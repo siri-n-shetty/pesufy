@@ -10,7 +10,7 @@ next: docs/ec-campus/contri
 
 ## Technical Clubs 
 
-* [</hackerspace>](https://www.instagram.com/hsp.pesuecc/)
+* [HackerSpace](https://www.instagram.com/hsp.pesuecc/)
 * [Codechef PESU ECC](https://www.instagram.com/codechef_pesuecc/)
 * [Google Developer Student Club](https://www.instagram.com/gdscpesu.ec/)
 * [ACM PESU ECC Student Chapter](https://www.instagram.com/acmpesuecc/)
