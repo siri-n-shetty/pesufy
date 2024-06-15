@@ -30,6 +30,7 @@ A breakdown of the other areas:
 
 {{< cards >}}
   {{< card link="/" title="Indoor Games" image="https://i.postimg.cc/DZqLhNBt/mrd-games.jpg" >}}
+  <br>
   {{< card link="/" title="Courts" image="https://i.postimg.cc/KcWxFYgh/IMG-20240606-WA0000.jpg" >}}
 {{< /cards >}}
 
