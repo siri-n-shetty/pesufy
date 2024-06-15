@@ -3,7 +3,7 @@ title: The RR Campus
 type: docs
 weight: 9
 prev: docs/ec-campus/contri
-next: docs/ec-campus
+next: docs/rr-campus/clubs
 sidebar:
   open: true
 ---
