@@ -3,7 +3,7 @@ title: Clubs and Activities
 type: docs
 weight: 4
 prev: docs/ec-campus/hostel
-next: docs/ec-campus/contri
+next: docs/ec-campus/maaya
 ---
 
 (Please contribute to this repository if you find any clubs missing)
@@ -45,7 +45,3 @@ next: docs/ec-campus/contri
 * [Nirantara](https://www.instagram.com/pesu_nirantara/)
 * [The Hashtag Crew](https://www.instagram.com/pesu.hashtagcrew/)
 * [The Clefhangers](https://www.instagram.com/the_clefhangers/)
-
-## [Maaya](https://www.instagram.com/maayapesu/)
-
-The annual inter-collegiate techno-cultural fest hosted by PES University - ECC.

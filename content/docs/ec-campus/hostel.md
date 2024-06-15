@@ -17,6 +17,10 @@ next: docs/ec-campus/clubs
 
 ## Boys Hostel
 
+{{< cards >}}
+  {{< card link="/" title="Boys Hostel" image="https://i.postimg.cc/pXgj9x4g/hostel.jpg" >}}
+{{< /cards >}}
+
 * Curfew is at 7:30 pm. If you get gate pass, its 10 pm. 
 * Food is mediocre to bad. 
 * Hot water is avavilable from 4 to 9 in the morning and in the evening. 

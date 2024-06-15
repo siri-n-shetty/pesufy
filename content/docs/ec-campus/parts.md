@@ -28,6 +28,11 @@ A breakdown of the other areas:
 
 * It houses a mess serving meals for the boys hostel, a gym, badminton courts, and an indoor games area.
 
+{{< cards >}}
+  {{< card link="/" title="Indoor Games" image="https://i.postimg.cc/DZqLhNBt/mrd-games.jpg" >}}
+  {{< card link="/" title="Courts" image="https://i.postimg.cc/KcWxFYgh/IMG-20240606-WA0000.jpg" >}}
+{{< /cards >}}
+
 ### Gym
 
 * Visit the PESU Academy portal and navigate to the "Online Payments" section.

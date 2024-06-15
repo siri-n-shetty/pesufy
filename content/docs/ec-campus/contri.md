@@ -1,8 +1,8 @@
 ---
 title: Contribute
 type: docs
-weight: 5
-prev: docs/ec-campus/clubs
+weight: 6
+prev: docs/ec-campus/maaya
 next: docs/rr-campus/
 ---
 
