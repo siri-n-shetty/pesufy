@@ -11,4 +11,5 @@ title: Getting Started
   {{< card link="third_page" title="Must-Haves" icon="server" >}}
   {{< card link="fourth_page" title="Important Links" icon="adjustments" >}}
   {{< card link="fifth-page" title="Placement Info" icon="sparkles" >}}
+  {{< card link="/folder" title="Academics" icon="server" >}}
 {{< /cards >}}
