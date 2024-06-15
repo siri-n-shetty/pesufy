@@ -12,4 +12,7 @@ title: Getting Started
   {{< card link="fourth_page" title="Important Links" icon="adjustments" >}}
   {{< card link="fifth-page" title="Placement Info" icon="sparkles" >}}
   {{< card link="/docs/folder" title="Academics" icon="server" >}}
+  {{< card link="/docs/branches" title="Branches" icon="template" >}}
+  {{< card link="/docs/ec-campus" title="EC Campus" icon="sparkles" >}}
+  {{< card link="/docs/rr-campus" title="RR Campus" icon="sparkles" >}}
 {{< /cards >}}
