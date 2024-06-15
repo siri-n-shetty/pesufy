@@ -6,4 +6,4 @@ prev: docs/rr-campus/clubs
 next: docs/rr-campus/smpna
 ---
 
-(Please contribute to this repository if you find any clubs missing)
+Aatamtrisha, The Official techno-cultural Fest of PES University RR Campus

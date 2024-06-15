@@ -1,5 +1,5 @@
 ---
-title: Clubs and Activities
+title: Clubs, Activities and more
 type: docs
 weight: 4
 prev: docs/ec-campus/hostel
