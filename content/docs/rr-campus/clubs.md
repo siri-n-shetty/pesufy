@@ -19,7 +19,7 @@ More clubs will be added soon ! Stay tuned !
 | [PES Innovation Lab](https://www.theinnovationlab.in/) |
 | Aelous |
 | Equinox - The Space Club | 
-| Apple Developers' Group  (Has nothing to do with Apple technology) | 
+| Apple Developers' Group (ADG) | 
 | ACM-W, PESU RR (Women in Tech Club) |
 | \|Q⟩Forest | 
 
@@ -51,14 +51,13 @@ More clubs will be added soon ! Stay tuned !
 | Team Encore | Official Western Dance crew of PES University RR Campus |
 | Team Sanskrithi | Indian Contemporary Dance Team |
 | Team Trance | Western Dance Crew |
-| The Music Club of PESU | Official Music club of PES University RR Campus |
+| The Music Club of PESU | Official Music Club of PES University RR Campus |
 
 ## Debate and more
 | Club Name | Type |
 | --------- | ---- |
 | [PES MUN Society](https://pesmunsociety.wixsite.com/home) | Debate and Model United Nations |
 | PES Debating Society | Debating Society of PES University RR Campus |
-| [Minerva](https://minervapesu.vercel.app) | Official Jouralism Club of PES University RR Campus |
 | TEDxPESU | TBA |
 
 
@@ -89,7 +88,6 @@ More clubs will be added soon ! Stay tuned !
 ## Official Film and Media 
 | Club Name | Media |
 | --------- | ----- |
-| WriteAngle | FYI (For Your Information) |
 | HoPES PESU | Official Videography Club of RR Campus |
 | PIXELS Photography Club | Official Photogprahy Club of RR Campus |
 | IRA PESU | Official Idk Club of PES University | 
