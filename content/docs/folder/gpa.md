@@ -30,6 +30,6 @@ Your GPA (Grade Point Average) reflects your overall academic performance. Here'
     * C (60-69): Average
     * D (50-59): Pass
     * E (40-49): Just Pass
-    * F (Below 50): Fail
+    * F (Below 40): Fail
 
 **Note**: This is just tentative, and the range of marks per grade may vary depending on the subject's overall performance from your batch.
