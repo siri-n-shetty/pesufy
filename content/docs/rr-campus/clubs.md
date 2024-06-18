@@ -11,34 +11,36 @@ More clubs will be added soon ! Stay tuned !
 ## Technical Clubs
 | Club Name |
 | -------- |
-| IEEE Robotics and Automation Society, PES University |
+| [IEEE Robotics and Automation Society, PES University](https://ieee-ras-pesu.github.io/website/) |
 | IEEE Computer science Society, PES University |
-| The Alcoding Club | 
+| [The Alcoding Club](https://thealcodingclub.vercel.app) | 
 | WEAL - Mental Health in Tech Club |
 | [Google Developer Student Club(GDSC)](https://gdsc.community.dev/pes-university-bengaluru-india/) |
 | [PES Innovation Lab](https://www.theinnovationlab.in/) |
-| Aelous |
+| [Aelous](https://aeolus.pes.edu) |
 | Equinox - The Space Club | 
-| Apple Developers' Group (ADG) | 
+| [Apple Developers' Group (ADG)](https://adgpesu.wordpress.com) | 
 | ACM-W, PESU RR (Women in Tech Club) |
 | \|Q⟩Forest | 
 
 ## Racing Clubs 
 | Club Name |
 | --------- |
-| TEAM HAYA (RACING CLUB UNDER DEPARTMENT OF MECHANICAL ENGINEERING) |
+| Team Haya (Raching Club under ME Department |
 | Vega Racing Electric |
 
-## Language Clubs 
+## Language and Book Clubs
 | Club Name | Type |
 | --------- | ---- |
 | Linguista | Language Club | 
-| Jnaanada PESU (ज्ञानदा)| Techno-Linguistic Club |
+| [Jnaanada PESU (ज्ञानदा)](https://jnanada-pesu.vercel.app/)| Techno-Linguistic Club |
+| The Grimm Readers PESU | Book Club |
 
 ## Fun
 | Club Name |
 | --------- |
 | Quotient Quic Club (RR Campus) |
+| IRA PESU |
 
 ## Techno-Cultural 
 | Club Name |
@@ -57,14 +59,13 @@ More clubs will be added soon ! Stay tuned !
 | Club Name | Type |
 | --------- | ---- |
 | [PES MUN Society](https://pesmunsociety.wixsite.com/home) | Debate and Model United Nations |
-| PES Debating Society | Debating Society of PES University RR Campus |
-| TEDxPESU | TBA |
+| TEDxPESU | TED Talks |
 
 
-## Corporate Social Responsibility and Community Services
+## Corporate Social Responsibility, Community Services and more
 | Club Name |
 | --------- |
-| Dhruva Forum |
+| Dhruva Club |
 | The Changemakers' Society | 
 | Aikya PESU | 
 | Rotaract Club of PES University |
@@ -85,10 +86,29 @@ More clubs will be added soon ! Stay tuned !
 | [PESU Venture Labs](https://www.pesuventurelabs.com) | Official |
 | EnactusPESU | Run by Students |
 
-## Official Film and Media 
+## Media and Films 
 | Club Name | Media |
 | --------- | ----- |
 | HoPES PESU | Official Videography Club of RR Campus |
 | PIXELS Photography Club | Official Photogprahy Club of RR Campus |
 | IRA PESU | Official Idk Club of PES University | 
 | PESU Talkies | Official Film-making Club of PES University |
+
+
+
+
+## Department Clubs (Also called Verticals)
+
+### Department of Computer Science and Engineering (RR Campus)
+To be added
+
+### Department of Computer Science and Engineering (AIML) (RR Campus)
+To be added
+
+### Department of Electronics and Communication engineering (RR Campus)
+| Name | Remarks |
+| --------- | ----- |
+| SILICON | Next Generation Integrate Circuits and Electronics (NiCE) Domain Vertical |
+| COMNET | Wireless Networking and Communication (WiNC) Domain Vertical |
+
+
