@@ -3,7 +3,7 @@ title: Hostel
 type: docs
 weight: 3
 prev: docs/ec-campus/parts
-next: docs/ec-campus/contri
+next: docs/ec-campus/clubs
 ---
 
 ## Girls Hostel
@@ -16,6 +16,10 @@ next: docs/ec-campus/contri
 * Curfew is at 6:30pm, and the warden is pretty stringent about it.
 
 ## Boys Hostel
+
+{{< cards >}}
+  {{< card link="/" title="Boys Hostel" image="https://i.postimg.cc/pXgj9x4g/hostel.jpg" >}}
+{{< /cards >}}
 
 * Curfew is at 7:30 pm. If you get gate pass, its 10 pm. 
 * Food is mediocre to bad. 

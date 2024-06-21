@@ -18,15 +18,18 @@ markup:
 
 menu:
   main:
+    - name: Getting Started
+      pageRef: /docs
+      weight: 1
     - name: About
       pageRef: /about
-      weight: 1
-    - name: Search
       weight: 2
+    - name: Search
+      weight: 3
       params:
         type: search
     - name: GitHub
-      weight: 3
+      weight: 4
       url: "https://github.com/siri-n-shetty/pesufy"
       params:
         icon: github

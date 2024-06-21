@@ -11,11 +11,6 @@ next: docs/folder/fy
 * *Earning Credits*: You earn the full credit value of a course by passing the exam and achieving a grade in the range of **A to E**.
 * *Failing Grades*: If you receive an **F** grade in a course, you won't earn any credits for that course.
 * *No Partial Credits*: The system is **all-or-nothing**. You either earn the full credit value or none at all. There are no partial credits awarded.
-* The number of credit hours per week is generally proportional to the credit value of the course.
-    * 5-credit courses: Meet for 5 hours per week.
-    * 4-credit courses: Meet for 4 hours per week.
-    * 3-credit courses: Meet for 3 hours per week.
-    * 2-credit courses: Meet for 2 hours per week.
 
 **Remember**: This is a general explanation.  It's always a good idea to consult with your respective faculty for specific details about your program's curriculum and credit requirements.
 
@@ -34,6 +29,7 @@ Your GPA (Grade Point Average) reflects your overall academic performance. Here'
     * B (70-79): Good
     * C (60-69): Average
     * D (50-59): Pass
-    * F (Below 50): Fail
+    * E (40-49): Just Pass
+    * F (Below 40): Fail
 
 **Note**: This is just tentative, and the range of marks per grade may vary depending on the subject's overall performance from your batch.
