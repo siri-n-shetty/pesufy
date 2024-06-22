@@ -6,7 +6,7 @@ prev: docs/folder/
 next: docs/folder/srnprn
 ---
 
-## Internal Semester Assessments (ISAs)
+## In-Semester Assessments (ISAs)
 
 - They are conducted within the university's designated exam centers. 
 - They contribute significantly to your overall performance in each subject.

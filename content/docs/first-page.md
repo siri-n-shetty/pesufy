@@ -18,7 +18,7 @@ Consider this your essential PESU handbook. It's still under construction, but w
 
 - The Ring Road Campus (RR Campus)
 - The Electronic City Campus (EC Campus)
-- The Hanumantha Nagar Campus (HN Campus)
+- The Hanumanth Nagar Campus (HN Campus)
 
 Of of these, the RR Campus is the most develeoped flagship campus, and the EC Campus is a more spacious place with a hospital and medical college under construction.
 
@@ -29,3 +29,4 @@ Of of these, the RR Campus is the most develeoped flagship campus, and the EC Ca
 - Prof. Jawahar Doreswamy - Pro-Chancellor
 - Dr. Suryaprasad J - Vice Chancellor
 - Dr. V Krishna - Dean, Student Affairs
+- Dr. K.S Sridhar - Registrar 

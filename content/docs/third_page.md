@@ -12,7 +12,7 @@ A good old-fashioned notebook will do the trick for taking notes! Don't worry ab
 
 ### For Assignments
 
-You'll need a blue book (around ₹15-20) for assignments in each subject. These are typically purchased at the university bookstore.
+You'll need a blue book (around ₹15-20) for assignments in each subject. These are typically purchased at the university bookstores / campus mart.
 
 ### Calculator 
 

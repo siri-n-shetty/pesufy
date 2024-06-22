@@ -1,12 +1,11 @@
 ---
-title: Clubs, Activities and more
+title: Clubs and more
 type: docs
 weight: 1
 prev: docs/rr-campus/
 next: docs/rr-campus/at
 ---
 
-More clubs will be added soon ! Stay tuned !
 
 ## Technical Clubs
 | Club Name |
@@ -22,11 +21,13 @@ More clubs will be added soon ! Stay tuned !
 | [Apple Developers' Group (ADG)](https://adgpesu.wordpress.com) | 
 | ACM-W, PESU RR (Women in Tech Club) |
 | \|Q⟩Forest | 
+| [Shunya -  The Official Math Club](https://shunyapes.vercel.app) | 
+| MahilAI - PESU RR (Tech for Women Club) | 
 
 ## Racing Clubs 
 | Club Name |
 | --------- |
-| Team Haya (Raching Club under ME Department |
+| Team Haya (Raching Club under Mechanical Department |
 | Vega Racing Electric |
 
 ## Language and Book Clubs
@@ -60,6 +61,7 @@ More clubs will be added soon ! Stay tuned !
 | --------- | ---- |
 | [PES MUN Society](https://pesmunsociety.wixsite.com/home) | Debate and Model United Nations |
 | TEDxPESU | TED Talks |
+| The PES Debating Society | Debate |
 
 
 ## Corporate Social Responsibility, Community Services and more
@@ -78,13 +80,16 @@ More clubs will be added soon ! Stay tuned !
 | DSGNR |
 | PESU Meraki : The Fashion Club | 
 
-## Entrepreneurship  
+## Entrepreneurship and Trading
 | Club Name | Type |
 | --------- | ---- |
 | [The Entrepreneurship  Cell](https://cie.pes.edu/ecell/) | Entrepreneurship Club run by Students |
 | [Center of Innovation and Entrepreneurship](https://cie.pes.edu) | Official |
 | [PESU Venture Labs](https://www.pesuventurelabs.com) | Official |
 | EnactusPESU | Run by Students |
+| The Trading Hub PESU | Trading |
+| Beetles Business Club | Business |
+
 
 ## Media and Films 
 | Club Name | Media |
@@ -111,4 +116,11 @@ To be added
 | SILICON | Next Generation Integrate Circuits and Electronics (NiCE) Domain Vertical |
 | COMNET | Wireless Networking and Communication (WiNC) Domain Vertical |
 
+## Research Centers 
 
+| Name | Domain |
+| ---- | ------ |
+| PES University Center for Information Security, Forensics and Cyber Resilience | Cybersecurity, networking and forensics |
+| Crucible of Research and Innovation (CORI) | Satellite Communication |
+| Center for Data Science and Applied Machine Learning - Center for Cloud Computing and Big Data (CDSAML - CCBD) | Multidiscplinary |
+| Center for Robotics, Automation and Intelligent Systems | Robotics and more | 
