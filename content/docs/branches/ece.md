@@ -65,12 +65,7 @@ next: docs/ec-campus
 
 
 ## Points to Remember
-* [Pros and Cons of PES University ECE Department of Ring Road and Electronic City Campus](https://www.reddit.com/r/PESU/comments/1cyvucb/the_pros_and_cons_of_pes_university_of_ece_at_rr/)
-
 * The access to the labs in ECE Department solely lies in the hands of the Lab head (Faculty).
-
 * Electives change for every batch. So, the electives list will be added after the list for the 2026 batch is released.
-
 * A total of 5 special topics have to be done totally (out of which the 2 in 7th semester have to done in 7th semester itself).
-
 * You can do special topics in lieu of an Internship not Vice-versa
