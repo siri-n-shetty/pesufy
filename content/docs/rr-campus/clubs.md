@@ -63,7 +63,6 @@ next: docs/rr-campus/at
 | TEDxPESU | TED Talks |
 | The PES Debating Society | Debate |
 
-
 ## Corporate Social Responsibility, Community Services and more
 | Club Name |
 | --------- |
@@ -98,9 +97,6 @@ next: docs/rr-campus/at
 | PIXELS Photography Club | Official Photogprahy Club of RR Campus |
 | IRA PESU | Official Idk Club of PES University | 
 | PESU Talkies | Official Film-making Club of PES University |
-
-
-
 
 ## Department Clubs (Also called Verticals)
 

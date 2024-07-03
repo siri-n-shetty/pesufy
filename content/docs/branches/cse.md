@@ -30,9 +30,7 @@ next: docs/branches/aiml
 
 ## Semester-5
 
-[Course Information](https://drive.google.com/file/d/1LJPU6rqfEVeYTA-pcPnJHzp8glHUvstA/view?usp=sharing)
-
-[Electives Info](https://drive.google.com/file/d/1Bl3gpk3FHyTsKKe4uCzq2tbsjS7_Lpor/view?usp=sharing)
+[Updated Course Information](https://drive.google.com/file/d/1-MSBSYvLJw5fiMKMsPVe9veq5wPQ2ZFP/view?usp=sharing)
 
 | Subject | Credits |
 |---|---|
@@ -45,8 +43,6 @@ next: docs/branches/aiml
 
 ## Semester-6
 
-[Electives Info](https://drive.google.com/file/d/1NqHvWtGSJwxL_YkeGcs8bew-EWaSgZV0/view?usp=sharing)
-
 | Subject | Credits |
 |---|---|
 | Cloud Computing | 5 |
@@ -58,6 +54,6 @@ next: docs/branches/aiml
 
 ## Points to Remember
 
-* Electives change for every batch. So, the electives list will be added after the list for the 2026 batch is released.
+* Electives change for every batch. The latest document has been uploaded. 
 * You can take up Special Topics (2 credits) in your third and fourth semester. 
 * Make sure you study the prescribed textbooks for these courses, as slides won't be sufficient to get good grades in exams anymore. 
