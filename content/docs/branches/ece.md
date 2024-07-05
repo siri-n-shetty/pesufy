@@ -34,7 +34,7 @@ next: docs/ec-campus
 |---|------|
 | Control Systems | 4  |
 | Digital Communication | 4  |
-| Digital VLSI Design | 4  |
+| Digital VLSI Design | 5   |
 | Principles of Digital Signal Processing | 5  |
 | Linear Algebra | 5  |
 
