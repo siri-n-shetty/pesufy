@@ -5,14 +5,6 @@ weight: 3
 prev: docs/branches/aiml
 next: docs/ec-campus
 ---
-## Syllabus
-
-
-
-
-
-
-## Subjects
 
 ### Semester-3
 
