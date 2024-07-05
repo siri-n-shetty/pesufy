@@ -28,12 +28,12 @@ next: docs/ec-campus
 | Digital Communication | 4  |
 | Digital VLSI Design | 5   |
 | Principles of Digital Signal Processing | 5  |
-| Linear Algebra | 5  |
+| Linear Algebra | 4  |
 
 ### Semester-5
 | Subject | Credits |
 |---|------|
-| Electromagnetic Field Theory | 5  |
+| Electromagnetic Field Theory | 4  |
 | RISC-V Architecture | 5  |
 | Computer Communication Networks | 5  |
 | Elective -- I | 4  |
@@ -42,11 +42,11 @@ next: docs/ec-campus
 ### Semester-6
 | Subject | Credits |
 |---|------|
-| Computer Architecture | 5  |
+| Computer Architecture | 4  |
 | Waveguides and Antennas | 5  |
 | Machine learning and Applications | 5  |
-| Elective -- III | 3  |
-| Elective -- IV | 5  |
+| Elective -- III | 4  |
+| Elective -- IV | 4  |
 | Capstone Project -- Phase -- I | 2 |
 
 ### Semester-7

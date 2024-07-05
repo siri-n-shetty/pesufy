@@ -3,7 +3,7 @@ title: Clubs and more
 type: docs
 weight: 1
 prev: docs/rr-campus/
-next: docs/rr-campus/at
+next: docs/rr-campus/smpna
 ---
 
 

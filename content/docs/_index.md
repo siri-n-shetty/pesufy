@@ -15,4 +15,7 @@ title: Getting Started
   {{< card link="/docs/branches" title="Branches" icon="template" >}}
   {{< card link="/docs/ec-campus" title="EC Campus" icon="sparkles" >}}
   {{< card link="/docs/rr-campus" title="RR Campus" icon="sparkles" >}}
+  {{< card link="sixth_page" title="Contribute" icon="document" >}}
+ 
+  
 {{< /cards >}}

@@ -3,7 +3,7 @@ title: Samarpana
 type: docs
 weight: 3
 prev: docs/rr-campus/at
-next: docs/rr-campus/
+next: docs/sixth_page
 ---
 
 ## About Samarpana

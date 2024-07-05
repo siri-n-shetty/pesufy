@@ -11,6 +11,6 @@ sidebar:
 [PESU-pedia by SilicoFlare](https://pesupedia.vercel.app/intro.html)
 
 {{< cards >}}
-  {{< card link="clubs" title="Clubs and Activities" icon="adjustments" >}}
+  {{< card link="clubs" title="Clubs and more" icon="adjustments" >}}
   {{< card link="smpna" title="Samarpana" icon="sparkles" >}}
 {{< /cards >}}
