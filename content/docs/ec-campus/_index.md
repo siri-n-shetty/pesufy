@@ -13,5 +13,5 @@ sidebar:
   {{< card link="parts" title="Other Facilities" icon="template" >}}
   {{< card link="hostel" title="Hostel" icon="server" >}}
   {{< card link="clubs" title="Clubs and Activities" icon="adjustments" >}}
-  {{< card link="contri" title="Contribute" icon="chart-square-bar" >}}
+  {{< card link="maaya" title="Maaya" icon="sparkle" >}}
 {{< /cards >}}

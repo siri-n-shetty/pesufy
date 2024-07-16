@@ -1,7 +1,7 @@
 ---
 title: Contribute
 type: docs
-weight: 8
+weight: 10
 prev: docs/rr-campus/smpna
 ---
 
