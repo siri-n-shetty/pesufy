@@ -25,7 +25,7 @@ next: docs/branches/aiml
 | [Computer Networks](https://drive.google.com/file/d/1pC4iRyhkvlxyrqsLQsagjoeFTnavQwPz/view?usp=sharing) | 5 |
 | [Design and Analysis of Algorithms](https://drive.google.com/file/d/1IxC9A-nufFHseU3-vjhp5pOELEiz8fWM/view?usp=sharing) | 4 |
 | [Operating Systems](https://drive.google.com/file/d/1RZ_ExLS7UBm1aPijDPGkCtkI8xOZ1_Gq/view?usp=sharing) | 4 |
-| [Linear Algebra and its Applications](https://drive.google.com/file/d/1gyz7logIZM1WntIwDRUd9p-MFRMr51_u/view?usp=sharing) | 4 |
+| [Vector Spaces and Linear Algebra](https://drive.google.com/file/d/1gyz7logIZM1WntIwDRUd9p-MFRMr51_u/view?usp=sharing) | 4 |
 
 
 ## Semester-5
@@ -34,7 +34,7 @@ next: docs/branches/aiml
 
 | Subject | Credits |
 |---|---|
-| Machine Intelligence | 5 |
+| Machine Learning | 5 |
 | Database Managements System | 5 |
 | Software Engineering | 4 |
 | Elective - I | 4 |
