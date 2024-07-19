@@ -8,6 +8,8 @@ next: docs/branches/
 
 - The first year involves common courses for all students, regardless of their chosen branch.
 - Half the batch focuses on Physics and the other half on Chemistry during the first/second semester.
+- The First years will undergo a **Bootstrap Program** prior to the commencement of classes which is basically a fun week where everyone will get a chance to see all the branches and departments at PESU. 
+
 
 ## Chemistry Cycle
 
