@@ -39,7 +39,7 @@ next: docs/branches/aiml
 | Software Engineering | 4 |
 | Elective - I | 4 |
 | Elective - II | 4 |
-
+| Capstone Project Phase-1 | 2 |
 
 ## Semester-6
 
@@ -50,10 +50,10 @@ next: docs/branches/aiml
 | Compiler Design | 4 |
 | Elective - III | 4 |
 | Elective - IV | 4 |
-| Capstone Project Phase-1 | 2 |
+| Capstone Project Phase-2 | 2 |
 
 ## Points to Remember
 
 * Electives change for every batch. The latest document has been uploaded. 
-* You can take up Special Topics (2 credits) in your third and fourth semester. 
-* Make sure you study the prescribed textbooks for these courses, as slides won't be sufficient to get good grades in exams anymore. 
+* You can take up Special Topics (2 credits) in your third and fourth semesters. 
+* Please make sure you study the prescribed textbooks for these courses, since slides won't be enough to get good grades in exams anymore. 
