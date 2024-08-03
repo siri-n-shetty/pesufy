@@ -52,6 +52,10 @@ next: docs/branches/aiml
 | Elective - IV | 4 |
 | Capstone Project Phase-2 | 2 |
 
+## Semester-7
+
+[Special topics list](https://drive.google.com/drive/folders/15TAGtHt9TaMZ6XImmTrBiq5kkfNolzU8?usp=sharing)
+
 ## Points to Remember
 
 * Electives change for every batch. The latest document has been uploaded. 

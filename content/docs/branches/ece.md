@@ -53,9 +53,11 @@ next: docs/ec-campus
 
 ### Semester-7
 
+[Semester-7 Special topics list (2025 batch)](https://drive.google.com/drive/folders/1fhoCjtfPq6OPj3YzczmaElfI_szuWVQs)
+
 * This semester will comprise mainly of 2 Special topics worth 2 credits each.
 * In addition to this it also comprises of **The Capstone Project Phase -- II**
-* The special topics list will be updated after its released for the 2025 batch.
+
 
 ### Semester-8
 
@@ -69,3 +71,4 @@ next: docs/ec-campus
 * Electives change for every batch. So, the electives list and syllabus of Sem 5 and Sem 6 will be added after the list for the 2026 batch is released.
 * A total of 5 special topics have to be done totally (out of which the 2 in 7th semester have to done in 7th semester itself).
 * You can do special topics in lieu of an Internship not Vice-versa
+* According to new rules, the Capstone project starts from 5th semester itself, the rules of which will be updated soon 
