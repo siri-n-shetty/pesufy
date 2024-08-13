@@ -14,7 +14,7 @@ next: docs/ec-campus
 |---|---|
 | Analog Circuit Design | 5 |
 | Mathematics for Electronics Engineers | 4 |
-| Computer Aided Digital Design | 5 |
+| [Computer Aided Digital Design](https://drive.google.com/file/d/1U0Nf0LqgNldDLew5F30fiCzBlJvJXpUB/view?usp=sharing) | 5 |
 | Network Analysis and Synthesis | 4 |
 | Signals and Systems | 4 |
 
