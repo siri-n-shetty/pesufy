@@ -53,3 +53,11 @@ next: docs/ec-campus/maaya
 | [Nirantara](https://www.instagram.com/pesu_nirantara/) |
 | [The Hashtag Crew](https://www.instagram.com/pesu.hashtagcrew/) |
 | [The Clefhangers](https://www.instagram.com/the_clefhangers/) |
+
+## Research Centers
+
+| Name | Domain |
+| Centre of Cognitive Computing and Computational Intelligence (C3I) |  |
+| Center for Computer Networks and Cyber Security (CCNCS) | Networks and Security |
+| Centre of Data Modelling, Analytics and Visualization (CoDMAV) | Data Analytics |
+| Centre for Heterogeneous and Intelligent Processing Systems (CHIPS) | |
