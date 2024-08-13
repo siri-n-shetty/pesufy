@@ -18,11 +18,14 @@ next: docs/ec-campus/maaya
 | [ACM PESU ECC Student Chapter](https://www.instagram.com/acmpesuecc/) |
 | [IEEE PESU-ECC Student Branch](https://www.instagram.com/ieee_pesuecc_sb/) |
 | [IEEE RAS PESU ECC](https://www.instagram.com/ieeeras.studentchapter.pesuecc/) |
+| [IEEE SSCS and Photonics](https://www.instagram.com/ieee_pes_sscs_photonics/) |
 | [Silicon](https://www.instagram.com/silicon.pesu/) |
 | [Parallax](https://www.instagram.com/parallax_pesu/) |
 | [NeuralHive](https://www.instagram.com/neuralhive/) |
 | [Shunya: Math club, PESU ECC](https://www.instagram.com/shunyaecc_pes/) |
 | [WEAL](https://www.instagram.com/weal_ecc/) |
+| [Avions Aero Design-PESIT](https://www.instagram.com/team_avions_pesu/) |
+| [Team Vegavath Racing](https://www.instagram.com/teamvegavath_pesu/) |
 
 ## Non-Technical Clubs
 
@@ -33,10 +36,9 @@ next: docs/ec-campus/maaya
 | [DSGNR](https://www.instagram.com/dsgnr_pesuecc/) |
 | [Quotient Quiz Club](https://www.instagram.com/qqc_ecc/) |
 | [MUNSOC PESU ECC](https://www.instagram.com/munsoc.pesuecc/) |
+| [DebSocECC](https://www.instagram.com/debsoc_pesecc/) |
 | [Apostrophe](https://www.instagram.com/apostrophe.pesuecc/) |
-| [Team Vegavath Racing](https://www.instagram.com/teamvegavath_pesu/) |
 | [Rotaract Club - PESU-ECC](https://www.instagram.com/rotaract.pesuecc/) |
-| [Avions Aero Design-PESIT](https://www.instagram.com/avionsaero/) |
 
 ## Cultural Clubs
 
