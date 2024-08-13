@@ -57,6 +57,7 @@ next: docs/ec-campus/maaya
 ## Research Centers
 
 | Name | Domain |
+|---|
 | Centre of Cognitive Computing and Computational Intelligence (C3I) |  |
 | Center for Computer Networks and Cyber Security (CCNCS) | Networks and Security |
 | Centre of Data Modelling, Analytics and Visualization (CoDMAV) | Data Analytics |
