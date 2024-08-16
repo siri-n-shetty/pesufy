@@ -57,8 +57,8 @@ next: docs/ec-campus/maaya
 ## Research Centers
 
 | Name | Domain |
-|---|
-| Centre of Cognitive Computing and Computational Intelligence (C3I) |  |
+|---|---|
+| Centre of Cognitive Computing and Computational Intelligence (C3I) | NLP, Neural Networks, Social Computing |
 | Center for Computer Networks and Cyber Security (CCNCS) | Networks and Security |
 | Centre of Data Modelling, Analytics and Visualization (CoDMAV) | Data Analytics |
-| Centre for Heterogeneous and Intelligent Processing Systems (CHIPS) | |
+| Centre for Heterogeneous and Intelligent Processing Systems (CHIPS) | Heterogeneous Computing |
