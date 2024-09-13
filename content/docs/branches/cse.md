@@ -54,7 +54,7 @@ next: docs/branches/aiml
 
 ## Semester-7
 
-[Special topics list](https://drive.google.com/drive/folders/15TAGtHt9TaMZ6XImmTrBiq5kkfNolzU8?usp=sharing)
+[Special topics (2025 Batch)](https://drive.google.com/drive/folders/15TAGtHt9TaMZ6XImmTrBiq5kkfNolzU8?usp=sharing)
 
 ## Points to Remember
 

@@ -17,8 +17,8 @@ next: docs/fifth-page
 * [PESU '27 Batch Discord Server](https://discord.gg/r5EM4b8p)
 * [PESU '26 Batch Discord Server](https://discord.gg/FVjXfFsR)
 * [PESU '25 Batch Discord Server](https://discord.gg/cXYd4AGk)
-* [PESU on Reddit](https://reddit.com/r/PESU)
-* [PESU FAQs](https://bit.ly/pesu-faq)
+* [PESU Sub-Reddit](https://reddit.com/r/PESU)
+* [**PESU FAQs**](https://bit.ly/pesu-faq)
 
 #### Process to verify on PES University Discord server -
 ![auth](/auth/auth.jpg)
