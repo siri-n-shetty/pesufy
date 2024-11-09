@@ -17,8 +17,8 @@ next: docs/branches/
 |---|---|
 | Engineering Chemistry and Chemistry Laboratory| 5 |
 | Electronic Principles and Devices | 4 |
-| Engineering Mechanics -- Statics | 3 |
-| Constitution of India, Cyber Law and Professional Ethics | 1 |
+| Engineering Mechanics -- Statics | 4 |
+| Constitution of India, Cyber Law and Professional Ethics | 2 |
 
 
 ## Physics Cycle 
@@ -27,8 +27,8 @@ next: docs/branches/
 |---|---|
 | Engineering Physics and Physics Laboratory| 5 |
 | Elements of Electrical Engineering | 4 |
-| Mechanical Engineering Sciences | 3 |
-| Environmental Studies and Life Sciences | 1 |
+| Mechanical Engineering Sciences | 4 |
+| Environmental Studies and Life Sciences | 2 |
 
 ## Common Courses 
 
