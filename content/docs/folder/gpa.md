@@ -24,12 +24,34 @@ Your GPA (Grade Point Average) reflects your overall academic performance. Here'
 * **External Marks (50%)**: The remaining 50% of your final grade comes from your ESA. This exam is worth a total of 100 marks, but only the scaled score (converted to a value out of 50) is considered for GPA calculation.
 * **Calculating Your Final Grade**: The internal and external marks are combined to determine your final grade for the course. (50% Internal Marks + 50% External Marks = 100% Final Grade)
 * **GPA**: Your final percentage grade is then converted to a letter grade based on the following scale:
-    * S (90+): Superior
-    * A (80-89): Excellent
-    * B (70-79): Good
-    * C (60-69): Average
-    * D (50-59): Pass
-    * E (40-49): Just Pass
-    * F (Below 40): Fail
 
-**Note**: This is just tentative, and the range of marks per grade may vary depending on the subject's overall performance from your batch.
+## Calculation of SGPA 
+
+| Letter Grade | Meaning | Marks Range | Grade Point Average 
+|:-------------:|:-----------:|:------:|:--------------------------:|
+| S | Outstanding | 90 - 100 | 10 |
+| A | Excellent | 80 - 89 | 9 |
+| B | Very good | 70 - 79 | 8 | 
+| C | Good | 60 - 69 | 7 |
+| D | Fair | 50 - 59 | 6 |
+| E | Satisfactory | 40 - 49 | 5 |
+| F | Fail | 0 - 39 | 4 |
+| W | Withdrawn | - | 0 | 
+| AP | Audit Pass | 40 - 100 | 0 |
+| AF | Audit Fail | 0 - 39 | 0 |
+
+
+<script type="text/javascript" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+$$\text{SGPA} = \frac{\sum (\text{credits} \times \text{GPA})}{\sum \text{credits}}$$
+
+
+## Calculation of CGPA 
+
+<script type="text/javascript" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+$$\text{CGPA} = \frac{\sum (\text{credits\_taken} \times \text{SGPA})}{\sum \text{credits\_taken}}$$

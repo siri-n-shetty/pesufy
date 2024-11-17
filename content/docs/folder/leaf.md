@@ -17,7 +17,7 @@ next: docs/folder/srnprn
 
 * *Frequency*: 2 ISAs are held per semester for each subject.
 * *Duration*: Each ISA lasts for 1 hour 5 minutes.
-* *Marks*: Each ISA carries a weightage of 40 marks.
+* *Marks*: Each ISA carries a weightage of 40 marks. This contributes to 50% weightage for Grade computation at the end of the semester.
 * *Question Format*: The exam format typically combines:
     * *Descriptive Questions* (4 marks): These questions require well-structured written responses which can be typed on PCs or written in the answer booklet.
     * *Multiple Choice Questions* (MCQs): 2 markers and 1 markers 
@@ -26,12 +26,16 @@ next: docs/folder/srnprn
 
 ## End Semester Assessments (ESAs)
 
-- *Marks*: This exam is worth a total of 100 marks per subject.
+- *Marks*: This exam is worth a total of 100 marks per subject. This contributes to 50% of your final grade computation.
 - *Duration*: You'll have a dedicated 3-hour window to complete the exam.
 - The exam is entirely **descriptive**.
 - The invigilators will provide you with a paper answer booklet to write your responses.
 - You have the option to type your answers directly on the computer provided at the exam center.
 - You can even combine both methods! For instance, you can type out an answer and then include a hand-drawn diagram within the answer booklet for better clarity.
+- All answer scripts are digitized and rendered during evaluation.
+- A faculty will evaluate 1 question for all students.
+
+
 
 ***Pro-Tip***: Please reach the examination centre on time and anticipate traffic and leave home early to avoid delays :))
 
