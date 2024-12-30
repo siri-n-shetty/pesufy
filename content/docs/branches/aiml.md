@@ -12,8 +12,6 @@ The Artificial Intelligence and Machine Learning (AIML) branch arrived at the PE
 
 [Syllabus](https://drive.google.com/file/d/16bDXG7EPgNIcYDCgzERTXC-MXAGjV0P8/view?usp=sharing)
 
-## Semester-3
-
 | Subject | Credits | Course Materials |
 |---|---|---|
 | Digital Design and Computer Organisation | 5 | [DDCO](https://drive.google.com/drive/folders/16IirOIrY70LZGR5kD3kjl2n4DkSjVJo2) |
