@@ -8,13 +8,14 @@ next: docs/branches/aiml
 
 ## Semester-3
 
-| Subject | Credits |
-|---|---|
-| [Digital Design and Computer Organisation](https://drive.google.com/file/d/1uf7wpzs64eKF3r9WJ1_3ggy-NOcj4y15/view?usp=sharing) | 5 |
-| [Data Structures and its Applications](https://drive.google.com/file/d/1-R4_pmA_JsEGU_9kJ1Acbf69LEUJTtsg/view?usp=sharing) | 5 |
-| [Web Technologies](https://drive.google.com/file/d/1AccwJzGuXxpSUFCgqNqsMEPsEgy1jBVM/view?usp=sharing) | 4 |
-| [Statistics for Data Science](https://drive.google.com/file/d/1W40GVnqB1khKIRAgp_sjpaq6YAAY1MjR/view?usp=drive_link) | 4 |
-| [Automata Formal Languages and Logic](https://drive.google.com/file/d/1eRIudDnXy5dBj3VeVjn34z2U7ZbDUErn/view?usp=drive_link) | 4 |
+| Subject | Credits | Course Materials |
+|---|---|---|
+| [Digital Design and Computer Organisation](https://drive.google.com/file/d/1uf7wpzs64eKF3r9WJ1_3ggy-NOcj4y15/view?usp=sharing) | 5 | [DDCO](https://drive.google.com/drive/folders/16IirOIrY70LZGR5kD3kjl2n4DkSjVJo2)  |
+| [Data Structures and its Applications](https://drive.google.com/file/d/1-R4_pmA_JsEGU_9kJ1Acbf69LEUJTtsg/view?usp=sharing) | 5 | [DSA](https://drive.google.com/drive/folders/1zZc68aZaJk_Et6l09qtTvBljy6NDxvki) | [CODES](https://drive.google.com/drive/folders/1dEhHzWqyqdY9jITNk8yuPoPWAPybaGsO) |
+| [Web Technologies](https://drive.google.com/file/d/1AccwJzGuXxpSUFCgqNqsMEPsEgy1jBVM/view?usp=sharing) | 4 | [WEBTECH](https://drive.google.com/drive/folders/1nCyyxWgRS2V2At2601DG-JtXVRwjJxit)  |
+| [Mathematics for Computer Science Engineers](https://drive.google.com/file/d/1W40GVnqB1khKIRAgp_sjpaq6YAAY1MjR/view?usp=drive_link) | 4 | [MCSE](https://drive.google.com/drive/folders/1xzu7O38cOlT69EhGAgLoHAFNgQe-lC_H) |
+| [Automata Formal Languages and Logic](https://drive.google.com/file/d/1eRIudDnXy5dBj3VeVjn34z2U7ZbDUErn/view?usp=drive_link) | 4 | [AFLL](https://drive.google.com/drive/folders/1vDp8K1rRajiMIsE84XhzGQf0kXhmr0Ty) | 
+
 
 
 ## Semester-4
