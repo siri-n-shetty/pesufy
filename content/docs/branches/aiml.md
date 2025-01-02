@@ -12,13 +12,14 @@ The Artificial Intelligence and Machine Learning (AIML) branch arrived at the PE
 
 [Syllabus](https://drive.google.com/file/d/16bDXG7EPgNIcYDCgzERTXC-MXAGjV0P8/view?usp=sharing)
 
-| Subject | Credits |
-|---|---|
-| SoC Design and Computer Architecture | 5 |
-| Data Structures and its Applications | 5 |
-| Web Technologies | 4 |
-| Statistics for Data Science | 4 |
-| Automata Formal Languages and Logic | 4 |
+| Subject | Credits | Course Materials |
+|---|---|---|
+| Digital Design and Computer Organisation | 5 | [DDCO](https://drive.google.com/drive/folders/16IirOIrY70LZGR5kD3kjl2n4DkSjVJo2) |
+| Data Structures and its Applications | 5 | [DSA](https://drive.google.com/drive/folders/1zZc68aZaJk_Et6l09qtTvBljy6NDxvki) | 
+| Web Technologies | 4 | [WEBTECH](https://drive.google.com/drive/folders/1nCyyxWgRS2V2At2601DG-JtXVRwjJxit) |
+| Mathematics for Computer Science Engineers | 4 | [MCSE](https://drive.google.com/drive/folders/1xzu7O38cOlT69EhGAgLoHAFNgQe-lC_H) |
+| Automata Formal Languages and Logic | 4 | [AFLL](https://drive.google.com/drive/folders/1vDp8K1rRajiMIsE84XhzGQf0kXhmr0Ty) |
+
 
 ## Semester-4
 
