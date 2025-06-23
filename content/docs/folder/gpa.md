@@ -45,7 +45,7 @@ Your GPA (Grade Point Average) reflects your overall academic performance. Here'
     src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-$$\text{SGPA} = \frac{\sum (\text{credits} \times \text{GPA})}{\sum \text{credits}}$$
+$$\text{SGPA} = \frac{\sum (\text{(credits of course)} \times \text{grade received in course})}{\sum \text{credits}}$$
 
 
 ## Calculation of CGPA 
