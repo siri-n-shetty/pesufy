@@ -12,44 +12,56 @@ The Artificial Intelligence and Machine Learning (AIML) branch arrived at the PE
 
 [Syllabus](https://drive.google.com/file/d/16bDXG7EPgNIcYDCgzERTXC-MXAGjV0P8/view?usp=sharing)
 
-| Subject | Credits | Course Materials |
-|---|---|---|
-| Digital Design and Computer Organisation | 5 | [DDCO](https://drive.google.com/drive/folders/16IirOIrY70LZGR5kD3kjl2n4DkSjVJo2) |
-| Data Structures and its Applications | 5 | [DSA](https://drive.google.com/drive/folders/1zZc68aZaJk_Et6l09qtTvBljy6NDxvki) | 
-| Web Technologies | 4 | [WEBTECH](https://drive.google.com/drive/folders/1nCyyxWgRS2V2At2601DG-JtXVRwjJxit) |
-| Mathematics for Computer Science Engineers | 4 | [MCSE](https://drive.google.com/drive/folders/1xzu7O38cOlT69EhGAgLoHAFNgQe-lC_H) |
-| Automata Formal Languages and Logic | 4 | [AFLL](https://drive.google.com/drive/folders/1vDp8K1rRajiMIsE84XhzGQf0kXhmr0Ty) |
-
+| Subject | Credits |
+|---|---|
+| Digital Design and Computer Organisation | 5 |
+| Data Structures and its Applications | 5 | 
+| Web Technologies | 4 |
+| Mathematics for Computer Science Engineers | 4 |
+| Automata Formal Languages and Logic | 4 |
+| CIE L1 | 2 |
 
 ## Semester-4
 
-[Sylaabus](https://drive.google.com/file/d/13JQqEjy3_rW8Aq0fK42EMHTPEOi6Jyt2/view?usp=sharing)
+[Sylabus: Batch 2022-26](https://drive.google.com/file/d/13JQqEjy3_rW8Aq0fK42EMHTPEOi6Jyt2/view?usp=sharing)
 
 | Subject | Credits |
 |---|---|
-| Big Data | 5 |
+| Microprocessor and Computer Achitecture | 5 |
 | Computer Networks | 5 |
 | Design and Analysis of Algorithms | 4 |
 | Operating Systems | 4 |
-| Mathematics for Machine Learning | 4 |
+| Linear Algebra and its Applications | 4 |
+| CIE L2 | 2 |
 
 ## Semester-5
 
 [Syllabus](https://drive.google.com/file/d/1i_x0Sme4QdlEG-Gy9BZW2Ark3lmXrs5l/view?usp=sharing)
 
+[Updated Syllabus](https://drive.google.com/file/d/15cZ4fwLewE8rvi8C90n9hNN3uucndC4C/view?usp=drive_link)
+
 | Subject | Credits |
 |---|---|
-| Algorithms and Optimizations in Machine Learning | 5 |
+| Machine Learning | 5 |
 | Database Management System | 5 |
 | Software Engineering | 4 |
 | Elective - I | 4 |
 | Elective - II | 4 |
+| Capstone Project Phase-1 | 2 |
 
 
 ## Semester-6
 
-(Not released yet)
+[ Course Information: Batch 2022-26](https://drive.google.com/file/d/15hRYyouHtdvvQlEwZgBZD5qyWf2sDiON/view?usp=drive_link)
 
+| Subject | Credits |
+|---|---|
+| Cloud Computing | 5 |
+| Deep Learning | 5 |
+| Compiler Design | 4 |
+| Elective - III | 4 |
+| Elective - IV | 4 |
+| Capstone Project Phase-2 | 2 |
 
 ### Points to Remember 
 
