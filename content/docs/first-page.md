@@ -25,8 +25,7 @@ Of of these, the RR Campus is the most develeoped flagship campus, and the EC Ca
 
 ## Meet the Leaders of PESU
 
-- Prof. M R Doreswamy - Chancellor
-- Prof. Jawahar Doreswamy - Pro-Chancellor
-- Dr. Suryaprasad J - Vice Chancellor
+- Prof. Jawahar Doreswamy - Chancellor
+- Dr. J Suryaprasad - Vice Chancellor
 - Dr. V Krishna - Dean, Student Affairs
 - Dr. K.S Sridhar - Registrar 

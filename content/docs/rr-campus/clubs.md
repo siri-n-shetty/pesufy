@@ -111,6 +111,7 @@ To be added
 | --------- | ----- |
 | SILICON | Next Generation Integrate Circuits and Electronics (NiCE) Domain Vertical |
 | COMNET | Wireless Networking and Communication (WiNC) Domain Vertical |
+| SPIRAL | Signal Processing and Systems Engineering (SpAsE) Domain Vertical |
 
 ## Research Centers 
 

@@ -8,13 +8,13 @@ next: docs/ec-campus
 
 ### Semester-3
 
-[Semester-3 Syllabus](https://drive.google.com/file/d/1fQS7vhJr9RaHcqrPkepDvNOmF5JJNj16/view?usp=sharing)
+[Semester-3 Syllabus](https://drive.google.com/file/d/1IcPfFs-9krm1DGfeIhv-b_LlLS6oUz5w/view?usp=sharing)
 
 | Subject | Credits |
 |---|---|
 | Analog Circuit Design | 5 |
-| Mathematics for Electronics Engineers | 4 |
 | [Computer Aided Digital Design](https://drive.google.com/file/d/1U0Nf0LqgNldDLew5F30fiCzBlJvJXpUB/view?usp=sharing) | 5 |
+| [Mathematics for Electronics Engineers](https://drive.google.com/file/d/1xBVENmjwhsi87FffmNY6lnN_pebdGAYV/view?usp=sharing) | 4 |
 | [Network Analysis and Synthesis](https://drive.google.com/file/d/1QQrBw-EhcBy3TuO-KBf5IkOBVMH0_XRa/view?usp=sharing) | 4 |
 | Signals and Systems | 4 |
 
@@ -24,19 +24,19 @@ next: docs/ec-campus
 
 | Subject | Credits |
 |---|------|
-| Control Systems | 4  |
-| Digital Communication | 4  |
-| Digital VLSI Design | 5   |
 | Principles of Digital Signal Processing | 5  |
+| [Digital VLSI Design](https://drive.google.com/file/d/1oP068HS_pL6r9sq0GHEVvTMoZx4gOcho/view?usp=sharing) | 5   |
+| [Control Systems](https://drive.google.com/file/d/10wPetg8XRkMICRMhScvxFcoXSbCzAvi9/view?usp=sharing) | 4  |
+| [Electromagnetic Field Theory](https://drive.google.com/file/d/1fHPt5fA69XwY6IFadvi88T5PKviRZUXI/view?usp=sharing) | 4  |
 | Linear Algebra | 4  |
 
 ### Semester-5
 
 | Subject | Credits |
 |---|------|
-| Electromagnetic Field Theory | 4  |
-| RISC-V Architecture | 5  |
+| Computer Organisation and Design | 5  |
 | Computer Communication Networks | 5  |
+| Digital Communication | 4  |
 | Elective -- I | 4  |
 | Elective -- II| 4  |
 | Capstone Project Phase -- 0 | 2 |
@@ -45,9 +45,9 @@ next: docs/ec-campus
 
 | Subject | Credits |
 |---|------|
-| Computer Architecture | 4  |
 | Waveguides and Antennas | 5  |
 | Machine learning and Applications | 5  |
+| Computer Architecture | 4  |
 | Elective -- III | 4  |
 | Elective -- IV | 4  |
 | Capstone Project -- Phase -- I | 2 |
