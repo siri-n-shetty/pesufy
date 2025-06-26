@@ -16,7 +16,8 @@ next: docs/ec-campus
 | [Computer Aided Digital Design](https://drive.google.com/file/d/1U0Nf0LqgNldDLew5F30fiCzBlJvJXpUB/view?usp=sharing) | 5 |
 | [Mathematics for Electronics Engineers](https://drive.google.com/file/d/1xBVENmjwhsi87FffmNY6lnN_pebdGAYV/view?usp=sharing) | 4 |
 | [Network Analysis and Synthesis](https://drive.google.com/file/d/1QQrBw-EhcBy3TuO-KBf5IkOBVMH0_XRa/view?usp=sharing) | 4 |
-| Signals and Systems | 4 |
+| [Signals and Systems](https://drive.google.com/file/d/1udfhDTWgsecc1v97ZFqKWDEUukZ18yN2/view?usp=sharing) | 4 |
+| CIE - Level 1 | 2 |
 
 ### Semester-4
 
@@ -29,6 +30,7 @@ next: docs/ec-campus
 | [Control Systems](https://drive.google.com/file/d/10wPetg8XRkMICRMhScvxFcoXSbCzAvi9/view?usp=sharing) | 4  |
 | [Electromagnetic Field Theory](https://drive.google.com/file/d/1fHPt5fA69XwY6IFadvi88T5PKviRZUXI/view?usp=sharing) | 4  |
 | Linear Algebra | 4  |
+| CIE - Level 2 | 2 |
 
 ### Semester-5
 
