@@ -21,7 +21,7 @@ next: docs/ec-campus
 
 ### Semester-4
 
-[Semester-4 Syllabus](https://drive.google.com/file/d/19iQuvDln2sGFjWIaNbD10ZF4qvpqzijS/view?usp=sharing)
+[Semester-4 Syllabus](https://drive.google.com/file/d/11OkdFarBybNYOYxXagiJ6Qc4RfoXVAnp/view?usp=sharing)
 
 | Subject | Credits |
 |---|------|
