@@ -29,9 +29,6 @@ next: docs/rr-campus/smpna
 | GronIT - Green technology club of RR Campus |
 
 
-
-
-
 ## Racing Clubs 
 | Club Name |
 | --------- |
