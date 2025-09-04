@@ -22,7 +22,15 @@ next: docs/rr-campus/smpna
 | ACM-W, PESU RR (Women in Tech Club) |
 | \|Q⟩Forest | 
 | [Shunya -  The Official Math Club](https://shunyapes.vercel.app) | 
-| MahilAI - PESU RR (Tech for Women Club) | 
+| MahilAI - PESU RR (Tech for Women Club) |
+| Nexus |
+| AURA Club |
+| Encode.AI |
+| GronIT - Green technology club of RR Campus |
+
+
+
+
 
 ## Racing Clubs 
 | Club Name |
@@ -54,7 +62,9 @@ next: docs/rr-campus/smpna
 | Team Encore | Official Western Dance crew of PES University RR Campus |
 | Team Sanskrithi | Indian Contemporary Dance Team |
 | Team Trance | Western Dance Crew |
-| The Music Club of PESU | Official Music Club of PES University RR Campus |
+| Nautanki | Drama and plays |
+| The Music Club of PESU | Official Music Club of PES University RR Campus, Bands |
+| Chords | Indian Music Club |
 
 ## Debate and more
 | Club Name | Type |
@@ -78,6 +88,12 @@ next: docs/rr-campus/smpna
 | Mosaic PESU |
 | DSGNR |
 | PESU Meraki : The Fashion Club | 
+
+## Gaming and more
+| Club Name |
+| --------- |
+| GCube PESU |
+
 
 ## Entrepreneurship and Trading
 | Club Name | Type |
