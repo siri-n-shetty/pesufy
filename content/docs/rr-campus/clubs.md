@@ -27,6 +27,7 @@ next: docs/rr-campus/smpna
 | AURA Club |
 | Encode.AI |
 | GronIT - Green technology club of RR Campus |
+| Arch Club |
 
 
 ## Racing Clubs 
