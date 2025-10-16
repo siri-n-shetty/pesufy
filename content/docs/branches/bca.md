@@ -14,7 +14,7 @@ next: docs/ec-campus
 | [Web Design](https://pes-bca.pages.dev/sem-1/web-design) | 5 | 
 | [Mathematical Foundation for Computer Applications](https://pes-bca.pages.dev/sem-1/mfca) | 4 |
 | [Macro Programming](https://pes-bca.pages.dev/sem-1/mp) | 4 |
-| [Professional Communication and Ethics](https://pes-bca.pages.dev/sem-1/cfp) | 3 |
+| [Professional Communication and Ethics](https://pes-bca.pages.dev/sem-1/pce) | 3 |
 | Indian Constitution | 1 |
 
 
