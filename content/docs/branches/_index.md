@@ -14,4 +14,6 @@ sidebar:
   {{< card link="aiml" title="AIML" icon="chart-square-bar" >}}
   <br>
   {{< card link="ece" title="ECE" icon="adjustments" >}}
+  <br>
+  {{< card link="bca" title="BCA" icon="code" >}}
 {{< /cards >}}
