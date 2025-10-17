@@ -37,7 +37,6 @@ next: docs/ec-campus
 | Data Structures | 5 |
 | Object Oriented Programming | 5 | 
 | Data Communication | 4 |
-| Computer Organization and Architecture | 4 |
 | Elective I | 4 |
 | Digital Marketing | 4 |
 
