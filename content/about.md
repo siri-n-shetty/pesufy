@@ -7,4 +7,5 @@ Content by [Siri N. Shetty](https://github.com/siri-n-shetty) and [Achyuth SS](h
 
 Special thanks to 
 * [Rowlet Owl](https://www.reddit.com/user/rowlet-owl/) for the FAQs. 
-* [Hitesh Pranav Reddy](https://www.instagram.com/hitesh_26_7/) for latest ECE Syllabus. 
+* [Hitesh Pranav Reddy](https://www.instagram.com/hitesh_26_7/) for latest ECE Syllabus.
+* [Lalith B Seervi](https://www.linkedin.com/in/lalithbseervi/) for the BCA syllabus and club information.
