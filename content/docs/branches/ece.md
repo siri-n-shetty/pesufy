@@ -3,7 +3,7 @@ title: ECE
 type: docs
 weight: 3
 prev: docs/branches/aiml
-next: docs/ec-campus
+next: docs/branches/bca
 ---
 
 ### Semester-3

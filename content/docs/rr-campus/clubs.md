@@ -127,6 +127,12 @@ To be added
 | COMNET | Wireless Networking and Communication (WiNC) Domain Vertical |
 | SPIRAL | Signal Processing and Systems Engineering (SpAsE) Domain Vertical |
 
+### Department of Computer Applications (RR Campus)
+| Name | Remarks |
+| ---- | ------- |
+| [init](https://init-ca.vercel.app/) | Official Departmental Club of BCA |
+| Kalaangana | Official Cultural Club of BCA |
+
 ## Research Centers 
 
 | Name | Domain |
