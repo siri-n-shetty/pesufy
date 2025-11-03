@@ -11,11 +11,11 @@ next: docs/ec-campus
 | Subject | Credits | 
 |---|---|
 | [Computing Fundamentals with Python](https://pes-bca.pages.dev/sem-1/cfp) | 5 |
-| [Web Design](https://pes-bca.pages.dev/sem-1/web-design) | 5 | 
+| [Web Design](https://pes-bca.pages.dev/sem-1/wd) | 5 | 
 | [Mathematical Foundation for Computer Applications](https://pes-bca.pages.dev/sem-1/mfca) | 4 |
 | [Macro Programming](https://pes-bca.pages.dev/sem-1/mp) | 4 |
 | [Professional Communication and Ethics](https://pes-bca.pages.dev/sem-1/pce) | 3 |
-| Indian Constitution | 1 |
+| [Indian Constitution](https://pes-bca.pages.dev/pdf-viewer/?file=%2FAllConstitutionQ%26A.pdf&title=Constitutional+Law+QA) | 1 |
 
 
 
@@ -49,7 +49,7 @@ next: docs/ec-campus
 | Software Engineering | 4 |
 | Elective II | 4 |
 | Cyber Law | 2 |
-| Project Phase I | 1 |
+| Project Phase I | 2 |
 
 ## Semester-5
 

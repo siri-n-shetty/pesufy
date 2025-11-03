@@ -131,7 +131,7 @@ To be added
 | Name | Remarks |
 | ---- | ------- |
 | [init](https://init-ca.vercel.app/) | Official Departmental Club of BCA |
-| Kalaangana | Official Cultural Club of BCA |
+| [Kalaangana](https://www.instagram.com/kalaangana.pesu.ca/) | Official Cultural Club of BCA |
 
 ## Research Centers 
 
