@@ -19,11 +19,14 @@ next: docs/ec-campus/maaya
 | [IEEE PESU-ECC Student Branch](https://www.instagram.com/ieee_pesuecc_sb/) |
 | [IEEE RAS PESU ECC](https://www.instagram.com/ieeeras.studentchapter.pesuecc/) |
 | [IEEE SSCS and Photonics](https://www.instagram.com/ieee_pes_sscs_photonics/) |
+| [Layer8 - Cybersecurity Club of PESU-ECC](https://www.instagram.com/layer8.pesu/) |
 | [Silicon](https://www.instagram.com/silicon.pesu/) |
 | [Parallax](https://www.instagram.com/parallax_pesu/) |
 | [NeuralHive](https://www.instagram.com/neuralhive/) |
+| [MLSA - Microsoft Learn Student Ambassadors PESU ECC](https://mlsapes.vercel.app/) |
+| [Nexus - AWS Cloud Champs (AWS Student Club)](https://www.instagram.com/nexusaws/) |
 | [Shunya: Math club, PESU ECC](https://www.instagram.com/shunyaecc_pes/) |
-| [WEAL](https://www.instagram.com/weal_ecc/) |
+| [WEAL - Mental Health in Tech Club](https://www.instagram.com/weal_ecc/) |
 | [Avions Aero Design-PESIT](https://www.instagram.com/team_avions_pesu/) |
 | [Team Vegavath Racing](https://www.instagram.com/teamvegavath_pesu/) |
 
@@ -62,3 +65,8 @@ next: docs/ec-campus/maaya
 | Center for Computer Networks and Cyber Security (CCNCS) | Networks and Security |
 | Centre of Data Modelling, Analytics and Visualization (CoDMAV) | Data Analytics |
 | Centre for Heterogeneous and Intelligent Processing Systems (CHIPS) | Heterogeneous Computing |
+| PES University Research Foundation (PESURF) | AI/ML, funded research, industry collaboration |
+| Center Of Networking and Evolving Communication Technologies (CONECT) | Hardware, Networking and Communication |
+| IOT Maker’s Space | Development of interfacing software and hardware, PCBs, Sensors etc. |
+| MedInn TechLabs |  Bio-informatics and medical devices and research |
+| QuaNad Lab - Quantum and Nano Devices Lab | Interdisciplinary research team dedicated to technology using quantum principles |

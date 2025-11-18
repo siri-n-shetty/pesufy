@@ -13,6 +13,7 @@ next: docs/rr-campus/smpna
 | [IEEE Robotics and Automation Society, PES University](https://ieee-ras-pesu.github.io/website/) |
 | IEEE Computer science Society, PES University |
 | [The Alcoding Club](https://thealcodingclub.vercel.app) | 
+| [\|Q⟩Forest - Quantum Computing Community](https://www.instagram.com/pes.qforest/) |
 | WEAL - Mental Health in Tech Club |
 | [Google Developer Student Club(GDSC)](https://gdsc.community.dev/pes-university-bengaluru-india/) |
 | [PES Innovation Lab](https://www.theinnovationlab.in/) |
@@ -20,7 +21,6 @@ next: docs/rr-campus/smpna
 | Equinox - The Space Club | 
 | [Apple Developers' Group (ADG)](https://adgpesu.wordpress.com) | 
 | ACM-W, PESU RR (Women in Tech Club) |
-| \|Q⟩Forest | 
 | [Shunya -  The Official Math Club](https://shunyapes.vercel.app) | 
 | MahilAI - PESU RR (Tech for Women Club) |
 | Nexus |
@@ -28,7 +28,6 @@ next: docs/rr-campus/smpna
 | Encode.AI |
 | GronIT - Green technology club of RR Campus |
 | Arch Club |
-
 
 ## Racing Clubs 
 | Club Name |
