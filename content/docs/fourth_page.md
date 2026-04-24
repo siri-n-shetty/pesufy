@@ -9,6 +9,7 @@ next: docs/fifth-page
 ### General 
 * [Official Website of PESU](https://pes.edu/)
 * [PESU Academy](https://www.pesuacademy.com/)
+* [Clubs](https://clubs.pes.edu/)
 
 ### Social
 * [Official PES University Discord server](https://discord.gg/pesu-discord-742797665301168220)

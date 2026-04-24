@@ -15,24 +15,24 @@ next: docs/rr-campus/smpna
 | [The Alcoding Club](https://thealcodingclub.vercel.app) | 
 | [\|Q⟩Forest - Quantum Computing Community](https://www.instagram.com/pes.qforest/) |
 | WEAL - Mental Health in Tech Club |
-| [Google Developer Student Club(GDSC)](https://gdsc.community.dev/pes-university-bengaluru-india/) |
+| Google Developer Student Club(GDSC) |
 | [PES Innovation Lab](https://www.theinnovationlab.in/) |
 | [Aelous](https://aeolus.pes.edu) |
 | Equinox - The Space Club | 
 | [Apple Developers' Group (ADG)](https://adgpesu.wordpress.com) | 
 | ACM-W, PESU RR (Women in Tech Club) |
-| [Shunya -  The Official Math Club](https://shunyapes.vercel.app) | 
-| MahilAI - PESU RR (Tech for Women Club) |
+| [Shunya -  The Official Math Club](https://shunya-pes.vercel.app) | 
+| SahayAI - PESU RR |
 | Nexus |
 | AURA Club |
 | Encode.AI |
-| GronIT - Green technology club of RR Campus |
+| [GronIT - Green technology club of RR Campus](https://gronit-pes.vercel.app/) |
 | Arch Club |
 
 ## Racing Clubs 
 | Club Name |
 | --------- |
-| Team Haya (Raching Club under Mechanical Department |
+| Team Haya (Raching Club under Mechanical Department) |
 | Vega Racing Electric |
 
 ## Language and Book Clubs
@@ -67,7 +67,7 @@ next: docs/rr-campus/smpna
 | Club Name | Type |
 | --------- | ---- |
 | [PES MUN Society](https://pesmunsociety.wixsite.com/home) | Debate and Model United Nations |
-| TEDxPESU | TED Talks |
+| [TEDxPESU](https://ted-x-pesu-2025.vercel.app/) | TED Talks |
 | The PES Debating Society | Debate |
 
 ## Corporate Social Responsibility, Community Services and more
@@ -89,7 +89,7 @@ next: docs/rr-campus/smpna
 ## Gaming and more
 | Club Name |
 | --------- |
-| GCube PESU |
+| [GCube PESU](https://gcube-pes.vercel.app/) |
 
 
 ## Entrepreneurship and Trading
@@ -114,10 +114,21 @@ next: docs/rr-campus/smpna
 ## Department Clubs (Also called Verticals)
 
 ### Department of Computer Science and Engineering (RR Campus)
-To be added
+| Club Name |
+| -------- |
+| WEAL - Mental Health in Tech Club |
+| ACM-W, PESU RR (Women in Tech Club) |
+| Nexus |
+| [GronIT - Green technology club of RR Campus](https://gronit-pes.vercel.app/) |
+| [GCube PESU](https://gcube-pes.vercel.app/) |
+
 
 ### Department of Computer Science and Engineering (AIML) (RR Campus)
-To be added
+| Club Name |
+| -------- |
+| AURA Club |
+| Encode.AI |
+| Arch Club |
 
 ### Department of Electronics and Communication engineering (RR Campus)
 | Name | Remarks |
@@ -140,3 +151,4 @@ To be added
 | Crucible of Research and Innovation (CORI) | Satellite Communication |
 | Center for Data Science and Applied Machine Learning - Center for Cloud Computing and Big Data (CDSAML - CCBD) | Multidiscplinary |
 | Center for Robotics, Automation and Intelligent Systems | Robotics and more | 
+| Centre for Healthcare Engineering and Learning (cHEAL) | Healthcare | 
