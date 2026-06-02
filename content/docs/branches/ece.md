@@ -47,7 +47,7 @@ next: docs/branches/bca
 
 | Subject | Credits |
 |---|------|
-| Waveguides and Antennas | 5  |
+| Transmission Lines, Waveguides and Antennas | 5  |
 | Machine learning and Applications | 5  |
 | Computer Architecture | 4  |
 | Elective -- III | 4  |
