@@ -61,7 +61,25 @@ next: docs/branches/aiml
 
 ## Semester-7
 
-[Special topics (2025 Batch)](https://drive.google.com/drive/folders/15TAGtHt9TaMZ6XImmTrBiq5kkfNolzU8?usp=sharing)
+[Special Topics (2026 Batch)](https://docs.google.com/document/d/14jDZuAn4tPdrTU-q9XWd3nDj9eUbGW8Z/edit?usp=sharing&ouid=110860460879070048703&rtpof=true&sd=true)
+
+| Subject | Credits |
+|---|---|
+| Special Topic | 2 |
+| Capstone Project Phase-3 | 4 |
+
+Note: The Special Topic ISAs / ESAs will be either conducted as fully MCQs or written exam based on the subject chosen. 
+
+## Semester-8
+
+| Subject | Credits |
+|---|---|
+| Internship | 8 |
+| Capstone Project Phase-3 | 4 |
+
+Internship is either counted as
+- 2 (from summer) + 6 (from regular / 8th sem)
+- 8 at omce from regular / 8th sem
 
 ## Points to Remember
 
